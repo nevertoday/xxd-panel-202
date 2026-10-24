@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 202｜Geometric Line Diagram with Guide Axes: first draws two to five main structural lines from the photo's direction of movement, building axes, sightlines or spatial flow, then hangs a small subject and a few fragments on, across or between them. Every shape becomes a line diagram of rectangles, circles, arcs, zigzags, rounded squares and ellipses in thin, even, single-colour blue-grey, cool grey or soft graphite, with slight repeated strokes, somewhere between sketch and diagram. One faint coloured S-shaped watercolour stroke from the photo may sit behind the subject; the ground is white or very pale paper with wide whitespace, and a few thin words follow the main lines. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-202 or asks for geometric line-diagram, structural-axis or diagrammatic spot illustration from a photo.",
+  "short_description": "结构主线几何线图：先画几条结构主线，再把照片主体转成挂在线上的蓝灰几何线图，配一笔 S 形水彩",
+  "zh-CN": {
+    "name": "结构主线几何线图",
+    "tagline": "先从照片里提炼几条结构主线，再把主体画成挂在线上的蓝灰几何线图。",
+    "look": "先从照片的动作方向、建筑轴线、视线或空间走势中提炼 2 到 5 条主结构线，主体和少量辅助图形依附、穿过或悬在这些线上。所有形状都被转成矩形、圆形、弧线、折线、圆角方块和椭圆组成的线图，线条纤细均匀，带一点重复描线和手绘误差，介于草图和图解之间。线色是单一的蓝灰、青灰或柔和石墨灰，主体后方可以有一笔淡淡的彩色 S 形水彩笔触，颜色取自照片。白色或极浅纸色背景上大片留白，少量纤细小字沿主线或在线条之间排布。",
+    "traits": [
+      "几何线图",
+      "结构主线",
+      "蓝灰单色线",
+      "S 形水彩笔触",
+      "大片留白"
+    ],
+    "good": [
+      "有明确方向和轴线的照片：楼梯、桥、街道透视、高楼",
+      "动作方向清楚的人或动物：奔跑、跳跃、伸展、飞鸟",
+      "形体能拆成几何形的物件：自行车、台灯、椅子"
+    ],
+    "poor": [
+      "没有明显走向的松散场景：草丛、人群、杂乱的桌面",
+      "依赖色彩或质感的照片：花海、日落、毛绒材质",
+      "想要写实描绘、粗黑轮廓或满版画面的需求"
+    ]
+  },
+  "en": {
+    "name": "Geometric Line Diagram with Guide Axes",
+    "tagline": "Draws structural guide lines from a photo and hangs its subject on them as a blue-grey line diagram.",
+    "look": "Two to five main structural lines are first drawn from the photo's direction of movement, building axes, sightlines or spatial flow, and the subject and a few small shapes lean on, cross or hang from them. Every shape becomes a line drawing made of rectangles, circles, arcs, zigzags, rounded squares and ellipses, in thin, even lines with a few repeated strokes and small hand-drawn wobbles, somewhere between a sketch and a diagram. The lines are a single blue-grey, cool grey or soft graphite, and one faint coloured S-shaped watercolour stroke, in a colour from the photo, may sit behind the subject. The white or very pale paper keeps wide whitespace, and a few thin words run along the main lines or between them.",
+    "traits": [
+      "Geometric line diagram",
+      "Structural axes",
+      "Single blue-grey line",
+      "S-shaped watercolour stroke",
+      "Wide whitespace"
+    ],
+    "good": [
+      "Photos with a clear direction or axis: stairs, bridges, street perspectives, tall buildings",
+      "People or animals with a clear line of action: running, jumping, stretching, a bird in flight",
+      "Objects that break down into geometric shapes: a bicycle, a desk lamp, a chair"
+    ],
+    "poor": [
+      "Loose scenes with no clear direction: tall grass, crowds, a cluttered table",
+      "Photos that rely on colour or texture: flower fields, sunsets, fluffy materials",
+      "Requests for realistic drawing, thick black outlines or a full-frame image"
+    ]
+  },
+  "ja": {
+    "name": "構造軸を持つ幾何学線図",
+    "tagline": "写真から数本の構造線を引き出し、主役をその線に掛かる青灰色の幾何学線図として描きます。",
+    "look": "まず写真の動きの向き、建物の軸、視線、空間の流れから二から五本の主な構造線を引き、主役と少しの補助図形をその線に寄り添わせ、貫かせ、吊り下げます。すべての形は長方形、円、弧、折れ線、角丸の四角、楕円でできた線図に置き換え、線は細く均一で、なぞり直しや手描きの揺れが少しあり、スケッチと図解の中間のような表情です。線の色は青灰、青みのグレー、柔らかな黒鉛色の一色で、主役の後ろに写真から色を取った淡い S 字の水彩の一筆を置くことがあります。白かごく淡い紙色の背景に大きな余白をとり、細い文字を少しだけ主線に沿わせたり線の間に置いたりします。",
+    "traits": [
+      "幾何学の線図",
+      "構造の主線",
+      "青灰色の単色線",
+      "S 字の水彩の一筆",
+      "広い余白"
+    ],
+    "good": [
+      "方向や軸がはっきりした写真：階段、橋、通りの遠近、高層ビル",
+      "動きの向きがはっきりした人や動物：走る、跳ぶ、伸びをする、飛ぶ鳥",
+      "幾何学形に分解できる物：自転車、デスクランプ、椅子"
+    ],
+    "poor": [
+      "はっきりした流れのない雑然とした場面：草むら、人混み、散らかった机",
+      "色や質感が見どころの写真：花畑、夕焼け、ふわふわした素材",
+      "写実的な描写、太い黒の輪郭、画面いっぱいの絵を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "구조 축을 가진 기하학 선도",
+    "tagline": "사진에서 몇 개의 구조선을 뽑아내고 주인공을 그 선에 걸린 청회색 기하 선도로 그립니다.",
+    "look": "먼저 사진의 동작 방향, 건물의 축, 시선, 공간의 흐름에서 두 개에서 다섯 개의 주요 구조선을 뽑고, 주인공과 약간의 보조 도형이 그 선에 기대거나 꿰뚫거나 매달리게 합니다. 모든 형태는 사각형, 원, 호, 꺾은선, 둥근 모서리 사각형, 타원으로 이루어진 선도로 바뀌고, 선은 가늘고 고르며 덧그은 선과 손그림의 흔들림이 조금 있어 스케치와 도해 사이의 느낌입니다. 선 색은 청회색, 푸른 회색, 부드러운 흑연색 중 하나이고, 주인공 뒤에 사진에서 색을 가져온 옅은 S자 수채 붓질 하나를 둘 수 있습니다. 흰색이나 아주 옅은 종이색 바탕에 넓은 여백을 두고, 가는 글자 몇 개를 주선을 따라 또는 선 사이에 놓습니다.",
+    "traits": [
+      "기하 선도",
+      "구조 주선",
+      "청회색 단색 선",
+      "S자 수채 붓질",
+      "넓은 여백"
+    ],
+    "good": [
+      "방향이나 축이 분명한 사진: 계단, 다리, 거리 원근, 고층 건물",
+      "동작 방향이 분명한 사람이나 동물: 달리기, 점프, 스트레칭, 나는 새",
+      "기하 도형으로 나눌 수 있는 물건: 자전거, 스탠드 조명, 의자"
+    ],
+    "poor": [
+      "뚜렷한 흐름이 없는 어수선한 장면: 풀숲, 인파, 어지러운 책상",
+      "색이나 질감이 핵심인 사진: 꽃밭, 노을, 털이 보송한 소재",
+      "사실적인 묘사, 굵은 검은 윤곽선, 꽉 찬 화면을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم خطي هندسي بمحاور إنشائية",
+    "tagline": "يستخرج من الصورة بضعة خطوط إنشائية، ثم يعلّق عليها العنصر رسماً خطياً هندسياً بالرمادي المزرق.",
+    "look": "تُرسم أولاً من اثنين إلى خمسة خطوط إنشائية رئيسية مستمدة من اتجاه الحركة في الصورة أو محاور المباني أو خطوط النظر أو انسياب المكان، ثم يستند إليها العنصر وبضعة أشكال صغيرة أو تعبرها أو تتدلى منها. يتحول كل شكل إلى رسم خطي من مستطيلات ودوائر وأقواس وخطوط متكسرة ومربعات مستديرة الزوايا وأشكال بيضوية، بخطوط رفيعة منتظمة فيها قليل من الضربات المكررة وارتعاش اليد، بين الاسكتش والمخطط التوضيحي. الخطوط بلون واحد: رمادي مزرق أو رمادي بارد أو غرافيت ناعم، وقد توضع خلف العنصر ضربة ألوان مائية باهتة على شكل حرف S بلون من الصورة. يحتفظ الورق الأبيض أو الفاتح جداً بفراغ واسع، وتمتد كلمات رفيعة قليلة على الخطوط الرئيسية أو بينها.",
+    "traits": [
+      "رسم خطي هندسي",
+      "محاور إنشائية",
+      "خط رمادي مزرق واحد",
+      "ضربة مائية على شكل S",
+      "فراغ واسع"
+    ],
+    "good": [
+      "صور ذات اتجاه أو محور واضح: سلالم، جسور، منظور شارع، مبانٍ عالية",
+      "أشخاص أو حيوانات ذات خط حركة واضح: الركض، القفز، التمدد، طائر يحلّق",
+      "أشياء يمكن تفكيكها إلى أشكال هندسية: دراجة، مصباح مكتب، كرسي"
+    ],
+    "poor": [
+      "مشاهد مبعثرة بلا اتجاه واضح: أعشاب كثيفة، حشود، طاولة فوضوية",
+      "صور تعتمد على اللون أو الملمس: حقول الزهور، الغروب، الخامات الوبرية",
+      "طلب رسم واقعي أو حدود سوداء سميكة أو صورة تملأ الإطار"
+    ]
+  }
+}
